@@ -83,6 +83,8 @@ https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg" group-title="general", Chilevisión [CL]
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Chilevisión 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg" group-title="general", Chilevisión 2 [CL]
+https://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 #EXTINF:-1 tvg-name="Chiloé Red 25" tvg-logo="https://graph.facebook.com/chiloered25/picture?width=800&height=800" group-title="general", Chiloé Red 25 [CL]
 https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-name="CHV Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="news", CHV Noticias [CL]
